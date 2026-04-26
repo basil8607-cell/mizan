@@ -2,7 +2,7 @@
   "name": "ميزانيتي",
   "short_name": "ميزانيتي",
   "description": "تطبيق تتبع الميزانية والمصاريف",
-  "start_url": "/index.html",
+ "start_url": "/mizan/index.html",
   "display": "standalone",
   "background_color": "#0d0f1a",
   "theme_color": "#0d0f1a",
